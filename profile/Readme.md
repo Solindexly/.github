@@ -43,7 +43,7 @@ sol_indexly --rpc-url https://api.devnet.solana.com --program-id A5JxZVHgXe7fn5T
 
   
 
-## outpu Options
+## output Options
 
 sol_indexly --rpc-url <RPC_URL> --program-id <PROGRAM_ID>
 
