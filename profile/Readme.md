@@ -21,18 +21,22 @@ cargo install SolIndexly
 
 ```
 ## Usage 
-sol_sweep --rpc-url <RPC_URL> --program-id <PROGRAM_ID>
+sol_indexly --rpc-url <RPC_URL> --program-id <PROGRAM_ID>
 
 ## Example 
 
-solana_sweep --rpc-url https://api.mainnet-beta.solana.com --program-id 4Nd1m1eeEwGC1QFi7dZerzyi3LAa1JxpCFdDnJEL6ZjD
+sol_indexly --rpc-url https://api.mainnet-beta.solana.com --program-id 4Nd1m1eeEwGC1QFi7dZerzyi3LAa1JxpCFdDnJEL6ZjD
+
+sol_indexly --rpc-url https://api.devnet.solana.com --program-id A5JxZVHgXe7fn5TqJXm6Hj2zKh1ptDapae2YjtXbZJoy
+
+  
 
 ## outpu Options
 
-sol_sweep --rpc-url <RPC_URL> --program-id <PROGRAM_ID>
+sol_indexly --rpc-url <RPC_URL> --program-id <PROGRAM_ID>
 
 
-sol_sweep --rpc-url <RPC_URL> --program-id <PROGRAM_ID> --output <FILENAME>.json
+sol_indexly --rpc-url <RPC_URL> --program-id <PROGRAM_ID> --output <FILENAME>.json
 
 ## Parameters 
 
