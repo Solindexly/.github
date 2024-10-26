@@ -31,6 +31,16 @@ sol_indexly --rpc-url https://api.mainnet-beta.solana.com --program-id 4Nd1m1eeE
 
 sol_indexly --rpc-url https://api.devnet.solana.com --program-id A5JxZVHgXe7fn5TqJXm6Hj2zKh1ptDapae2YjtXbZJoy
 
+### fetch accounts
+- sol_indexly --rpc-url https://api.devnet.solana.com --program-id A5JxZVHgXe7fn5TqJXm6Hj2zKh1ptDapae2YjtXbZJoy fetch-accounts
+### get Account balance 
+- sol_indexly --rpc-url https://api.devnet.solana.com get-balance <ACCOUNT_PUBKEY>
+### Get Transaction Count
+- sol_indexly --rpc-url https://api.devnet.solana.com get-transaction-count
+### Export account data as json
+- sol_indexly --rpc-url https://api.devnet.solana.com --program-id A5JxZVHgXe7fn5TqJXm6Hj2zKh1ptDapae2YjtXbZJoy export-accounts-json accounts.json
+
+
   
 
 ## outpu Options
