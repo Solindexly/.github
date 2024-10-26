@@ -17,7 +17,7 @@ To install **SolIndexly**, you need to have Rust and Cargo installed on your mac
 Once Rust and Cargo are installed, run the following command:
 
 ```bash
-cargo install SolIndexly
+cargo install sol_indexly
 
 ```
 ## Usage 
