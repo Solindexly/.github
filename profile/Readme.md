@@ -2,6 +2,8 @@
 
 **Solindexly** is a lightweight command-line interface (CLI) tool designed for efficient indexing and retrieving data from the Solana blockchain. This tool helps developers easily access program accounts and other relevant data, making it an essential utility for Solana-based applications.
 
+**Build for the superteamUk**
+
 ![Solindexly Logo](./solIndexly.jpeg)
 
 ## Features
@@ -67,7 +69,7 @@ The SolIndexly CLI connects to the specified Solana RPC endpoint and retrieves a
 
 
 ## Development 
-- git clone https://github.com/SOLindexer/SolIndexly/tree/main
+- git clone https://github.com/Solindexly/solindexly.git
 - cd SolIndexly
 - cargo build
 
