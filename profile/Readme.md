@@ -56,6 +56,7 @@ sol_indexly --rpc-url <RPC_URL> --program-id <PROGRAM_ID> --output <FILENAME>.js
 - --program-id	Program ID to fetch accounts from
 - --output	(Optional) Filename to save JSON output
 
+[Watch the demo video](https://www.loom.com/share/0365b81e186d4541ba1eabc4b6f53018?sid=4dee93c2-6524-4f1d-9e33-1913ee52c492)
 
 
 ## Example Output 
