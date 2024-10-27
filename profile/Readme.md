@@ -92,5 +92,5 @@ The SolIndexly CLI connects to the specified Solana RPC endpoint and retrieves a
  - This project is licensed under the MIT License.
 
 ## Video link
-[Watch the Demlo Video](https://www.loom.com/share/0365b81e186d4541ba1eabc4b6f53018?sid=4dee93c2-6524-4f1d-9e33-1913ee52c492)
+[Watch the Demo Video](https://www.loom.com/share/0365b81e186d4541ba1eabc4b6f53018?sid=4dee93c2-6524-4f1d-9e33-1913ee52c492)
 
